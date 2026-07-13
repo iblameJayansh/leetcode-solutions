@@ -24,5 +24,18 @@
     "submissionId": "2065462044",
     "timestamp": "1783892816",
     "path": "Easy/0001_Two_Sum.cpp"
+  },
+  {
+    "problemId": "1878",
+    "problemTitle": "Check if Array Is Sorted and Rotated",
+    "problemSlug": "check-if-array-is-sorted-and-rotated",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.2 MB",
+    "submissionId": "2066681769",
+    "timestamp": "1783980322",
+    "path": "Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.cpp"
   }
 ]

@@ -37,5 +37,18 @@
     "submissionId": "2066681769",
     "timestamp": "1783980322",
     "path": "Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.cpp"
+  },
+  {
+    "problemId": "1966",
+    "problemTitle": "Frequency of the Most Frequent Element",
+    "problemSlug": "frequency-of-the-most-frequent-element",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "42 ms",
+    "memory": "106 MB",
+    "submissionId": "2067851838",
+    "timestamp": "1784059802",
+    "path": "Medium/1966_Frequency_of_the_Most_Frequent_Element.cpp"
   }
 ]

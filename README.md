@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 3
+Total Solved: 4
 
 ## Easy
 
@@ -10,7 +10,7 @@ Total Solved: 3
 
 ## Medium
 
-*No medium problems solved yet.*
+- Frequency of the Most Frequent Element ([C++](Medium/1966_Frequency_of_the_Most_Frequent_Element.cpp))
 
 ## Hard
 
@@ -21,7 +21,7 @@ Total Solved: 3
 | Difficulty | Count |
 |------------|--------|
 | Easy | 3 |
-| Medium | 0 |
+| Medium | 1 |
 | Hard | 0 |
 
 ---

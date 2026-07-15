@@ -50,5 +50,18 @@
     "submissionId": "2067851838",
     "timestamp": "1784059802",
     "path": "Medium/1966_Frequency_of_the_Most_Frequent_Element.cpp"
+  },
+  {
+    "problemId": "3995",
+    "problemTitle": "GCD of Odd and Even Sums",
+    "problemSlug": "gcd-of-odd-and-even-sums",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.7 MB",
+    "submissionId": "2069150300",
+    "timestamp": "1784153428",
+    "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.cpp"
   }
 ]

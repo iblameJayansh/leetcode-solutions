@@ -6,12 +6,12 @@
  * Runtime: 0 ms
  * Memory: 8.7 MB
  * Synced From: LeetCode
- * Date: 2026-07-15
+ * Date: 2026-07-16
  */
 
 class Solution {
 public:
     int gcdOfOddEvenSums(int n) {
-        return n;
+        return __gcd(n*n, n*(n+1));
     }
 };

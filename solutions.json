@@ -63,5 +63,18 @@
     "submissionId": "2070421832",
     "timestamp": "1784237922",
     "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.cpp"
+  },
+  {
+    "problemId": "792",
+    "problemTitle": "Binary Search",
+    "problemSlug": "binary-search",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "31.3 MB",
+    "submissionId": "2070432635",
+    "timestamp": "1784239941",
+    "path": "Easy/0792_Binary_Search.cpp"
   }
 ]

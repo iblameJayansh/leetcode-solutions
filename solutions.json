@@ -76,5 +76,18 @@
     "submissionId": "2070432635",
     "timestamp": "1784239941",
     "path": "Easy/0792_Binary_Search.cpp"
+  },
+  {
+    "problemId": "26",
+    "problemTitle": "Remove Duplicates from Sorted Array",
+    "problemSlug": "remove-duplicates-from-sorted-array",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "22.7 MB",
+    "submissionId": "2071599578",
+    "timestamp": "1784325947",
+    "path": "Easy/0026_Remove_Duplicates_from_Sorted_Array.cpp"
   }
 ]

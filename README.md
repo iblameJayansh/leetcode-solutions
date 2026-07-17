@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 6
+Total Solved: 7
 
 ## Easy
 
 - Two Sum ([C++](Easy/0001_Two_Sum.cpp))
+- Remove Duplicates from Sorted Array ([C++](Easy/0026_Remove_Duplicates_from_Sorted_Array.cpp))
 - Valid Palindrome ([C++](Easy/0125_Valid_Palindrome.cpp))
 - Binary Search ([C++](Easy/0792_Binary_Search.cpp))
 - Check if Array Is Sorted and Rotated ([C++](Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.cpp))
@@ -22,7 +23,7 @@ Total Solved: 6
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 5 |
+| Easy | 6 |
 | Medium | 1 |
 | Hard | 0 |
 

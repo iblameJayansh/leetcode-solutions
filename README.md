@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 7
+Total Solved: 8
 
 ## Easy
 
@@ -13,6 +13,7 @@ Total Solved: 7
 
 ## Medium
 
+- Rotate Array ([C++](Medium/0189_Rotate_Array.cpp))
 - Frequency of the Most Frequent Element ([C++](Medium/1966_Frequency_of_the_Most_Frequent_Element.cpp))
 
 ## Hard
@@ -24,7 +25,7 @@ Total Solved: 7
 | Difficulty | Count |
 |------------|--------|
 | Easy | 6 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 0 |
 
 ---

@@ -1,12 +1,13 @@
 # LeetCode Solutions
 
-Total Solved: 8
+Total Solved: 9
 
 ## Easy
 
 - Two Sum ([C++](Easy/0001_Two_Sum.cpp))
 - Remove Duplicates from Sorted Array ([C++](Easy/0026_Remove_Duplicates_from_Sorted_Array.cpp))
 - Valid Palindrome ([C++](Easy/0125_Valid_Palindrome.cpp))
+- Missing Number ([C++](Easy/0268_Missing_Number.cpp))
 - Binary Search ([C++](Easy/0792_Binary_Search.cpp))
 - Check if Array Is Sorted and Rotated ([C++](Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
@@ -24,7 +25,7 @@ Total Solved: 8
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 6 |
+| Easy | 7 |
 | Medium | 2 |
 | Hard | 0 |
 

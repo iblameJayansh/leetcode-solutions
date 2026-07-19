@@ -102,5 +102,18 @@
     "submissionId": "2072824495",
     "timestamp": "1784413232",
     "path": "Medium/0189_Rotate_Array.cpp"
+  },
+  {
+    "problemId": "268",
+    "problemTitle": "Missing Number",
+    "problemSlug": "missing-number",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "21.7 MB",
+    "submissionId": "2073924689",
+    "timestamp": "1784501614",
+    "path": "Easy/0268_Missing_Number.cpp"
   }
 ]

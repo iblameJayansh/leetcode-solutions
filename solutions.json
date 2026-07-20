@@ -115,5 +115,18 @@
     "submissionId": "2073924689",
     "timestamp": "1784501614",
     "path": "Easy/0268_Missing_Number.cpp"
+  },
+  {
+    "problemId": "283",
+    "problemTitle": "Move Zeroes",
+    "problemSlug": "move-zeroes",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "23.7 MB",
+    "submissionId": "2075087488",
+    "timestamp": "1784581355",
+    "path": "Easy/0283_Move_Zeroes.cpp"
   }
 ]

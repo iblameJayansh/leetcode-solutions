@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 9
+Total Solved: 10
 
 ## Easy
 
@@ -8,6 +8,7 @@ Total Solved: 9
 - Remove Duplicates from Sorted Array ([C++](Easy/0026_Remove_Duplicates_from_Sorted_Array.cpp))
 - Valid Palindrome ([C++](Easy/0125_Valid_Palindrome.cpp))
 - Missing Number ([C++](Easy/0268_Missing_Number.cpp))
+- Move Zeroes ([C++](Easy/0283_Move_Zeroes.cpp))
 - Binary Search ([C++](Easy/0792_Binary_Search.cpp))
 - Check if Array Is Sorted and Rotated ([C++](Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
@@ -25,7 +26,7 @@ Total Solved: 9
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 7 |
+| Easy | 8 |
 | Medium | 2 |
 | Hard | 0 |
 

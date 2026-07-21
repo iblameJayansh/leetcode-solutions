@@ -128,5 +128,18 @@
     "submissionId": "2075087488",
     "timestamp": "1784581355",
     "path": "Easy/0283_Move_Zeroes.cpp"
+  },
+  {
+    "problemId": "485",
+    "problemTitle": "Max Consecutive Ones",
+    "problemSlug": "max-consecutive-ones",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "50.1 MB",
+    "submissionId": "2076409494",
+    "timestamp": "1784673301",
+    "path": "Easy/0485_Max_Consecutive_Ones.cpp"
   }
 ]

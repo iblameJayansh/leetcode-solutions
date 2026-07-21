@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 10
+Total Solved: 11
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 10
 - Valid Palindrome ([C++](Easy/0125_Valid_Palindrome.cpp))
 - Missing Number ([C++](Easy/0268_Missing_Number.cpp))
 - Move Zeroes ([C++](Easy/0283_Move_Zeroes.cpp))
+- Max Consecutive Ones ([C++](Easy/0485_Max_Consecutive_Ones.cpp))
 - Binary Search ([C++](Easy/0792_Binary_Search.cpp))
 - Check if Array Is Sorted and Rotated ([C++](Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.cpp))
 - GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
@@ -26,7 +27,7 @@ Total Solved: 10
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 8 |
+| Easy | 9 |
 | Medium | 2 |
 | Hard | 0 |
 

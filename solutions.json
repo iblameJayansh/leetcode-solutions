@@ -141,5 +141,18 @@
     "submissionId": "2076409494",
     "timestamp": "1784673301",
     "path": "Easy/0485_Max_Consecutive_Ones.cpp"
+  },
+  {
+    "problemId": "136",
+    "problemTitle": "Single Number",
+    "problemSlug": "single-number",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "20.5 MB",
+    "submissionId": "2077675031",
+    "timestamp": "1784755875",
+    "path": "Easy/0136_Single_Number.cpp"
   }
 ]

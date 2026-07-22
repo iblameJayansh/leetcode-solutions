@@ -1,12 +1,13 @@
 # LeetCode Solutions
 
-Total Solved: 11
+Total Solved: 12
 
 ## Easy
 
 - Two Sum ([C++](Easy/0001_Two_Sum.cpp))
 - Remove Duplicates from Sorted Array ([C++](Easy/0026_Remove_Duplicates_from_Sorted_Array.cpp))
 - Valid Palindrome ([C++](Easy/0125_Valid_Palindrome.cpp))
+- Single Number ([C++](Easy/0136_Single_Number.cpp))
 - Missing Number ([C++](Easy/0268_Missing_Number.cpp))
 - Move Zeroes ([C++](Easy/0283_Move_Zeroes.cpp))
 - Max Consecutive Ones ([C++](Easy/0485_Max_Consecutive_Ones.cpp))
@@ -27,7 +28,7 @@ Total Solved: 11
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 9 |
+| Easy | 10 |
 | Medium | 2 |
 | Hard | 0 |
 

@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 12
+Total Solved: 13
 
 ## Easy
 
@@ -17,6 +17,7 @@ Total Solved: 12
 
 ## Medium
 
+- Sort Colors ([C++](Medium/0075_Sort_Colors.cpp))
 - Rotate Array ([C++](Medium/0189_Rotate_Array.cpp))
 - Frequency of the Most Frequent Element ([C++](Medium/1966_Frequency_of_the_Most_Frequent_Element.cpp))
 
@@ -29,7 +30,7 @@ Total Solved: 12
 | Difficulty | Count |
 |------------|--------|
 | Easy | 10 |
-| Medium | 2 |
+| Medium | 3 |
 | Hard | 0 |
 
 ---

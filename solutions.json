@@ -154,5 +154,18 @@
     "submissionId": "2078931752",
     "timestamp": "1784851258",
     "path": "Easy/0136_Single_Number.cpp"
+  },
+  {
+    "problemId": "75",
+    "problemTitle": "Sort Colors",
+    "problemSlug": "sort-colors",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.5 MB",
+    "submissionId": "2104693228",
+    "timestamp": "1786562793",
+    "path": "Medium/0075_Sort_Colors.cpp"
   }
 ]

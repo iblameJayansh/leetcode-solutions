@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 13
+Total Solved: 14
 
 ## Easy
 
@@ -8,6 +8,7 @@ Total Solved: 13
 - Remove Duplicates from Sorted Array ([C++](Easy/0026_Remove_Duplicates_from_Sorted_Array.cpp))
 - Valid Palindrome ([C++](Easy/0125_Valid_Palindrome.cpp))
 - Single Number ([C++](Easy/0136_Single_Number.cpp))
+- Majority Element ([C++](Easy/0169_Majority_Element.cpp))
 - Missing Number ([C++](Easy/0268_Missing_Number.cpp))
 - Move Zeroes ([C++](Easy/0283_Move_Zeroes.cpp))
 - Max Consecutive Ones ([C++](Easy/0485_Max_Consecutive_Ones.cpp))
@@ -29,7 +30,7 @@ Total Solved: 13
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 10 |
+| Easy | 11 |
 | Medium | 3 |
 | Hard | 0 |
 

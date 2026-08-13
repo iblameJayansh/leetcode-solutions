@@ -167,5 +167,18 @@
     "submissionId": "2104693228",
     "timestamp": "1786562793",
     "path": "Medium/0075_Sort_Colors.cpp"
+  },
+  {
+    "problemId": "169",
+    "problemTitle": "Majority Element",
+    "problemSlug": "majority-element",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "28.2 MB",
+    "submissionId": "2105949244",
+    "timestamp": "1786653456",
+    "path": "Easy/0169_Majority_Element.cpp"
   }
 ]
